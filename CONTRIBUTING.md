@@ -1,4 +1,4 @@
-# Contributing
+ # Contributing
 
 ## Basics
 
@@ -8,7 +8,8 @@ issues. If you add/change holiday official dates or names, your code must includ
 sources (government sites, archived web pages, wiki pages, etc.) you've used while working on this
 PR. That could be done either as a `References` section update or as a comment on the relevant part
 of the code. Contributed [PRs](https://github.com/vacanza/holidays/pulls) are required to include
-100% test coverage in order to be merged. Please don't hesitate to ask for help if you need one
+100% test coverage in order to be merged. If you are new to the project, start by exploring the 
+documentation and existing issues. Please don't hesitate to ask for help if you need one
 with the tests.
 
 Thanks a lot for your support.
